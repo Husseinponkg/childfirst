@@ -1,0 +1,10 @@
+{
+  "name": "masoud",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix childwelfare run dev",
+    "build": "npm --prefix childwelfare run build",
+    "lint": "npm --prefix childwelfare run lint",
+    "preview": "npm --prefix childwelfare run preview"
+  }
+}
