@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { SiteNavigation, SiteFooter } from './SiteNavigation';
-import story1 from '../assets/story4.jpeg';
+import story1 from '../assets/job.jpeg';
 import story2 from '../assets/story2.jpeg';
 import story3 from '../assets/story3.jpeg';
 
