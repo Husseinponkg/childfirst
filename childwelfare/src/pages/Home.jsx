@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { SiteNavigation, SiteFooter } from './SiteNavigation';
-import story1 from '../assets/story.jpeg';
+import story1 from '../assets/story4.jpeg';
 import story2 from '../assets/story2.jpeg';
 import story3 from '../assets/story3.jpeg';
 
@@ -103,7 +103,7 @@ const Icon = {
 const HERO_SLIDES = [
   {
     image: story1,
-    title: 'Every Child Deserves a Bright Future',
+    title: 'Every Child Deserves a Chance',
     subtitle: 'Together we protect, educate, and empower children across Tanzania',
   },
   {
